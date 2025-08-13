@@ -1,1 +1,4 @@
-# humcom1
+# Hello-UB
+Hello University of Baguio
+Welcome Students!
+This is example of a repository for the HUMCOM1 class!
